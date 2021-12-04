@@ -18,7 +18,10 @@
     },
     "plugins": [
       {
-        "transform": "war3-transformer"
+        "transform": "war3-transformer",
+        "mapDir": "C:/Users/Ville/Documents/GitHub/wc3-ts-template/maps/IslandDefense_LUA.w3x",
+        "entryFile": "C:/Users/Ville/Documents/GitHub/wc3-ts-template/src/main.ts",
+        "outputDir": "C:/Users/Ville/Documents/GitHub/wc3-ts-template/dist/IslandDefense_LUA.w3x"
       }
     ],
     "types": [
